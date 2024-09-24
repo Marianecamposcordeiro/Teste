@@ -1,5 +1,5 @@
 # Desenvolvido por
-## Mariane :heartpulse:
+##  Etudante Mariane :heartpulse:
 Primeira página em HTML e CSS 
 
 > filosofia :alien:
